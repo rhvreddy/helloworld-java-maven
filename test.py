@@ -12,10 +12,10 @@ from agent_context.questions_cache import QuestionCache
 from util.actions_helper import *
 
 from mongodb import ai_bots_cache_dao,ai_wa_bots_cache_dao
-import requests
-import datetime
-import util
-import json, random
+#import requests
+#import datetime
+#import util
+#import json, random
 
 from string import Template
 
